@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, Welcome to my GitHub profile.
+
+### I am a Frontend developer focusing on web interfaces.
+
+### I'm currently learning and working with the Javascript (Vanilla JS, React.js, Node.js) stack.
+
+### I'm open to working and collaborating on interactive web applications that are built around the Javascript stack.
 
 <!--
 **AshadeSamson/AshadeSamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
