@@ -1,6 +1,6 @@
 ### 👋  Hi there, Welcome to my GitHub profile.
 
-### 👨‍💻  I am a Frontend developer specializing in web interfaces.
+### 👨‍💻  I'm a Front-End developer specializing in web interfaces, aspiring to go Fullstack.
 
 ### 🔭  I'm currently learning and working with the Javascript (Vanilla JS, React.js, Node.js) stack.
 
