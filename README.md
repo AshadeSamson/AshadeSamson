@@ -15,7 +15,7 @@
 
 ## Connect with Me
 
-- LinkedIn: [Ashade Samson]([LinkedIn](https://linkedin.com/in/ashadesamson18))
+- LinkedIn: [Ashade Samson](https://linkedin.com/in/ashadesamson18)
 
 
 
