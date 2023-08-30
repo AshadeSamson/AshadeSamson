@@ -27,7 +27,7 @@
 
 ## Fun Fact
 
-⚡ I'm a football fan!
+⚡ I Love Coding
 
 
 
