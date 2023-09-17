@@ -36,4 +36,3 @@ Thanks for stopping by and exploring my profile. Looking forward to connecting w
 
 
 
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AshadeSamson.AshadeSamson)](https://github.com/AshadeSamson)
