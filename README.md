@@ -16,6 +16,7 @@
 ## Connect with Me
 
 - LinkedIn: [Ashade Samson](https://linkedin.com/in/ashadesamson18)
+- Twitter:  [Ashade Samson](https://twitter.com/Ashade__Samson)
 
 
 
