@@ -11,7 +11,7 @@ Explore my journey through code, creativity, and innovation. Discover my project
 - 💻 Full Stack Developer: Proficient in JavaScript and experienced in crafting immersive user experiences through React.js on the frontend and Node.js on the backend. 
 - 🎨 Design Enthusiast: Transforming design concepts into captivating web interfaces that bridge form and function.
 - 🌐 Tech Explorer: Continuously learning and exploring the ever-evolving landscape of technology.
-- 💻 Currently learning and improving in backend technicality with both JavaScript and Python.
+- 💻 Actively seeking roles across stack while improving in backend technicality with both JavaScript and Python.
 
 
 
