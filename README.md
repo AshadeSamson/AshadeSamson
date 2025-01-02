@@ -14,7 +14,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ## What I Do
 
@@ -27,7 +26,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ## Connect with Me
 
@@ -37,13 +35,11 @@
 <br>
 <br>
 <br>
-<br>
 
 ## Let's Collaborate
 
 🔍 I'm open to collaboration and new opportunities. If you're interested in working together or discussing tech trends, feel free to reach out! email - ashadesamson99@gmail.com
 
-<br>
 <br>
 <br>
 <br>
