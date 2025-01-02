@@ -1,17 +1,22 @@
 # Hi there, I'm Samson 👋
 
-🚀 Welcome to my GitHub profile! I'm a Fullstack Web Developer and Software Engineer with a foundation in Computer Science. My journey has taken me through the exciting realms of Programming, Data Structures and Algorithms, Machine Learning and artificial intelligence. 
+**Welcome to my GitHub profile! I'm a Fullstack Web Developer and Software Engineer with a foundation in Computer Science. My journey has taken me through the exciting realms of Programming & Logic, Human-Computer Interaction, Data Structures & Algorithms, Machine Learning, and Artificial Intelligence.
+<br>
 I'm Passionate about design and logic across the spectrum of Web development, with a knack for creating seamless user interfaces and robust functionality.
-Explore my journey through code, creativity, and innovation. Discover my projects, insights, and the tech-driven solutions I'm passionate about.
+<br>
+I combine these knowledge to build web platforms and applications that cater to diverse and unique business/brand needs.
+<br>
+Explore my journey through code, creativity, and innovation. Discover my projects, insights, and the tech-driven solutions that fuel my passion.**
 
 
 
 ## What I Do
 
-- 💻 Full Stack Developer: Proficient in JavaScript and experienced in crafting immersive user experiences through React.js on the frontend and Node.js on the backend. 
-- 🎨 Design Enthusiast: Transforming design concepts into captivating web interfaces that bridge form and function.
-- 🌐 Tech Explorer: Continuously learning and exploring the ever-evolving landscape of technology.
-- 💻 Actively seeking roles across stack while improving in backend technicality with both JavaScript and Python.
+- **💻 Full Stack Developer:** Experienced in creating custom, seamless, high-performance web applications to streamline digital operations using React.js for the frontend and Node.js for the backend, with a strong foundation in JavaScript and TypeScript.
+<br>
+- **🌐 Tech Explorer:** Always exploring new technologies and staying updated with trends to ensure continuous growth and innovation in the software development and technology space.
+<br>
+- **💼 Open to Opportunities:** Actively seeking new roles and freelance gigs, bringing my full-stack expertise and passion for web development to dynamic teams and projects.
 
 
 
@@ -25,12 +30,6 @@ Explore my journey through code, creativity, and innovation. Discover my project
 ## Let's Collaborate
 
 🔍 I'm open to collaboration and new opportunities. If you're interested in working together or discussing tech trends, feel free to reach out! email - ashadesamson99@gmail.com
-
-
-
-## Fun Fact
-
-⚡ I Love Coding
 
 
 
