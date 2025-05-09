@@ -17,11 +17,11 @@
 
 ## What I Do
 
-- **💻 Full Stack Developer:** Experienced in creating custom, seamless, high-performance web applications to streamline digital operations using React.js for the frontend and Node.js for the backend, with a strong foundation in JavaScript and TypeScript.
+- **💻 Full Stack Developer:** I specialize in  high-performance websites and cloud apps for corporate, e-commerce, and SaaS industries. I work with Javascript, Typescript, React.js, Node.js, Cloud technologies such as AWS, and WordPress to build scalable, user-friendly platforms.
 
-- **🌐 Tech Explorer:** Always exploring new technologies and staying updated with trends to ensure continuous growth and innovation in the software development and technology space.
+- **🌐 Tech Explorer:** Always exploring new technologies and staying updated with trends to ensure continuous growth and innovation in the web software development and cloud space.
 
-- **💼 Open to Opportunities:** Actively seeking new roles and freelance gigs, bringing my full-stack expertise and passion for web development to dynamic teams and projects.
+- **💼 Open to Opportunities:** Actively seeking new roles and freelance gigs, bringing my full-stack expertise and passion for high-performance web apps to dynamic teams and projects.
 
 <br>
 <br>
